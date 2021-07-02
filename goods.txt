@@ -3,3 +3,4 @@ Keyboard
 Laptop
 флаг
 Bag
+Desk
